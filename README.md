@@ -5,7 +5,7 @@
 ## What's in this repository?
 This repository contains the scripts and files related to the development of a Marine Heatwave Simulator (MHWsim) using a Raspberry Pi.
 
-This repository is maintained by Amelia Ritger (GitHub: [@ameliaritger](https://github.com/ameliaritger)) at the University of California, Santa Barbara in the Department of Ecology, Evolution, & Marine Biology. Please direct any questions or comments about this repository to [Amelia Ritger](mailto:aritger@ucsb.edu).
+This repository is maintained by Amelia Ritger (GitHub: [@ameliaritger](https://github.com/ameliaritger)) at the University of California, Santa Barbara in the Department of Ecology, Evolution, & Marine Biology. Please direct any questions or comments about this repository to [Amelia Ritger](mailto:aritger@ucsb.edu). The repository DOI is: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5520736.svg)](https://doi.org/10.5281/zenodo.5520736)
 
 ## How is this repository structured?
 ```
