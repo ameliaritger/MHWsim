@@ -11,24 +11,24 @@ This repository is maintained by Amelia Ritger (GitHub: [@ameliaritger](https://
 ```
 .
 |
-├── media/                                      # directory containing media files for project repo
+├── media/                                # Directory containing media files for project repo
 |
-├── code/                                   # directory with scripts for the MHWsim
-|   └── Alert.py                             # script for sending SMS alerts
-|   └── CleanUp.py                           # script for saving data, clearing lists/variables, and going to sleep
-|   └── IO_ctrl.py                           # script for initializing relay board
-|   └── MHWRamp.py                           # script for ramping up and down temperatures at start/end of MHW event
-|   └── MHWsim.py                            # script for initializing MHWsim objects, parameters and then running the MHWsim 
-|   └── Memory.py                            # script for constructing and saving to .csv file
-|   └── PID.py                               # script for Proportional–integral–derivative controller algorithm
-|   └── SensorAverage.py                     # script for averaging multiple consecutive temperature probe readings and calculating the average temperature across replicates
-|   └── SensorInfo.py                        # script to enter temperature probe ROM numbers and location identification, and calibration values for each probe
-|   └── Temperature.py                       # script for reading temperature probes
-|   └── main.py                              # main script to run all code associated with MHWsim
-|   └── mhw_profile.csv                      # MHWsim experiment data, required for initial code test
+├── code/                                 # Directory with scripts for the MHWsim
+|   └── Alert.py                          # Script for sending SMS alerts
+|   └── CleanUp.py                        # Script for saving data, clearing lists/variables, and going to sleep
+|   └── IO_ctrl.py                        # Script for initializing relay board
+|   └── MHWRamp.py                        # Script for ramping up and down temperatures at start/end of MHW event
+|   └── MHWsim.py                         # Script for initializing MHWsim objects, parameters and then running the MHWsim 
+|   └── Memory.py                         # Script for constructing and saving to .csv file
+|   └── PID.py                            # Script for Proportional–integral–derivative controller algorithm
+|   └── SensorAverage.py                  # Script for averaging multiple consecutive temperature probe readings and calculating the average temperature across replicates
+|   └── SensorInfo.py                     # Script to enter temperature probe ROM numbers and location identification, and calibration values for each probe
+|   └── Temperature.py                    # Script for reading temperature probes
+|   └── main.py                           # Main script to run all code associated with MHWsim
+|   └── mhw_profile.csv                   # MHWsim experiment data (from SBC LTER), required for initial code test
 |
-├── documentation/                          # directory containing MHWsim system build documentation
-|   └── rpiMHWsimConstruction.docx           # document for building the RPi MHWsim system
+├── documentation/                        # Directory containing MHWsim system build documentation
+|   └── rpiMHWsimConstruction.docx        # Document for building the RPi MHWsim system
 |
 ├── .gitignore
 |
